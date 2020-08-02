@@ -4,7 +4,7 @@ You may be interested in ...
 
 - [Holistic 3D Vision Workshop @ ECCV 2020](http://holistic-3d.github.io/eccv20/) and [Holistic 3D Vision Challenges](https://holistic-3d.github.io/eccv20/challenge.html)
 - [Structured3D @ ECCV 2020](http://structured3d-dataset.org): a large-scale photo-realistic dataset for data-driven structured 3D reconstruction
-- [Planar Reconstruction @ CVPR 2019](http://structured3d-dataset.org): single-view piece-wise planar reconstruction approach
+- [Planar Reconstruction @ CVPR 2019](https://github.com/svip-lab/PlanarReconstruction): single-view piece-wise planar reconstruction approach
 
 ### Found me on
 
