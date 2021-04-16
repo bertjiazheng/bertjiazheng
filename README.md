@@ -3,7 +3,7 @@
 You may be interested in ...
 
 - [Holistic 3D Vision Workshop @ ECCV 2020](http://holistic-3d.github.io/eccv20/) and [Holistic 3D Vision Challenges](https://holistic-3d.github.io/eccv20/challenge.html)
-- [NonCuboidRoom](https://github.com/CYang0515/LayoutReconstruction): a single-view 3D non-cuboid room layout reconsturction approach
+- [NonCuboidRoom](https://github.com/CYang0515/NonCuboidRoom): a single-view 3D non-cuboid room layout reconsturction approach
 - [Structured3D @ ECCV 2020](http://structured3d-dataset.org): a large-scale photo-realistic dataset for data-driven structured 3D reconstruction
 - [PlaneAE @ CVPR 2019](https://github.com/svip-lab/PlanarReconstruction): a single-view piece-wise planar reconstruction approach
 - [awesome-scene-understanding](https://github.com/bertjiazheng/awesome-scene-understanding): a list of papers for scene understanding in computer vision
