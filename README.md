@@ -1,16 +1,20 @@
-### Hi there, I'm Jia Zheng 👋
+### Hi there! 👋
 
-You may be interested in ...
+I'm Jia Zheng, currently a senior research engineer at Manycore Research Institute. We are conducting cutting-edge research in computer vision and machine learning. Please drop me an [email](mailto:zhengjia@shangahitech.edu.cn) with your CV if interested.
 
 **Resources**
+
 - [awesome-scene-understanding](https://github.com/bertjiazheng/awesome-scene-understanding): a list of papers for scene understanding in computer vision
 - [awesome-holistic-3d](https://github.com/holistic-3d/awesome-holistic-3d): a list of papers for holistic 3D reconstruction in computer vision
 
 **Workshops**
+
 - [Holistic 3D Vision Workshop @ ECCV 2020](http://holistic-3d.github.io/eccv20/)
 
 **Papers**
-- [NonCuboidRoom](https://github.com/CYang0515/NonCuboidRoom): a single-view 3D non-cuboid room layout reconsturction approach
+
+- [MINERVAS](https://coohom.github.io/MINERVAS/): an online platform for massive data synthesis
+- [NonCuboidRoom](https://github.com/CYang0515/NonCuboidRoom): a single-view 3D non-cuboid room layout reconstruction approach
 - [PNVS @ CVPR 2021](https://github.com/bluestyle97/PNVS): a single-view panoramic view synthesis approach
 - [Structured3D @ ECCV 2020](http://structured3d-dataset.org): a large-scale photo-realistic dataset for data-driven structured 3D reconstruction
 - [PlaneAE @ CVPR 2019](https://github.com/svip-lab/PlanarReconstruction): a single-view piece-wise planar reconstruction approach
