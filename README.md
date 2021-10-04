@@ -14,7 +14,7 @@ I'm Jia Zheng, currently a senior research engineer at Manycore Research Institu
 **Papers**
 
 - [MINERVAS](https://coohom.github.io/MINERVAS/): an online platform for massive data synthesis
-- [NonCuboidRoom](https://github.com/CYang0515/NonCuboidRoom): a single-view 3D non-cuboid room layout reconstruction approach
+- [NonCuboidRoom @ WACV 2022](https://github.com/CYang0515/NonCuboidRoom): a single-view 3D non-cuboid room layout reconstruction approach
 - [PNVS @ CVPR 2021](https://github.com/bluestyle97/PNVS): a single-view panoramic view synthesis approach
 - [Structured3D @ ECCV 2020](http://structured3d-dataset.org): a large-scale photo-realistic dataset for data-driven structured 3D reconstruction
 - [PlaneAE @ CVPR 2019](https://github.com/svip-lab/PlanarReconstruction): a single-view piece-wise planar reconstruction approach
