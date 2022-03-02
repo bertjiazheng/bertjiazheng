@@ -13,6 +13,7 @@ I'm Jia Zheng, currently a senior research engineer at Manycore Research Institu
 
 **Papers**
 
+- Faceformer @ CVPR 2022: The first data-driven approach to identify face loops from a single line drawing.
 - [MINERVAS](https://coohom.github.io/MINERVAS/): an online platform for massive data synthesis
 - [NonCuboidRoom @ WACV 2022](https://github.com/CYang0515/NonCuboidRoom): a single-view 3D non-cuboid room layout reconstruction approach
 - [PNVS @ CVPR 2021](https://github.com/bluestyle97/PNVS): a single-view panoramic view synthesis approach
