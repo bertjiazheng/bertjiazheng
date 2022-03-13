@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Jia Zheng, currently a senior research engineer at Manycore Research Institute. We are conducting cutting-edge research in computer vision and machine learning. Please drop me an [email](mailto:jiajia@qunhemail.com) with your CV if interested.
+I'm Jia Zheng, currently a senior research engineer at Manycore Research Institute, Manycore Tech Inc. We are conducting cutting-edge research in computer vision and machine learning. Please drop me an [email](mailto:jiajia@qunhemail.com) with your CV if interested.
 
 **Resources**
 
