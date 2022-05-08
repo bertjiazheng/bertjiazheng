@@ -4,7 +4,7 @@ I'm Jia Zheng, currently an engineer and researcher at [Manycore Research Instit
 
 We are conducting cutting-edge research in computer vision and machine learning. Please drop me an [email](mailto:jiajia@qunhemail.com) with your CV if interested.
 
-**Highlights Publications**
+**Selected Publications**
 
 - [Faceformer [CVPR 2022]](https://manycore-research.github.io/faceformer/): The first data-driven approach to identify face loops from a single line drawing
 - [NonCuboidRoom [WACV 2022]](https://github.com/CYang0515/NonCuboidRoom): a single-view 3D non-cuboid room layout reconstruction approach
