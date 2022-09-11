@@ -12,7 +12,7 @@ I'm Jia Zheng, currently an engineer and researcher at [Manycore Research Instit
 
 **Resources**
 
-- [awesome-cad](https://github.com/bertjiazheng/awesome-cad): a list of awesome Computer-Aided Design (CAD) papers.
+- [awesome-CAD](https://github.com/bertjiazheng/awesome-cad): a list of awesome Computer-Aided Design (CAD) papers.
 - [awesome-scene-understanding](https://github.com/bertjiazheng/awesome-scene-understanding): a list of scene understanding papers.
 - [awesome-holistic-3d](https://github.com/holistic-3d/awesome-holistic-3d): a list of holistic 3D reconstruction papers.
 
