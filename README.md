@@ -5,11 +5,10 @@ I'm Jia Zheng, currently an engineer and researcher at [Manycore Research Instit
 **Selected Publications**
 
 - [PlankAssembly [ICCV 2023]](https://manycore-research.github.io/PlankAssembly/): the first deep generative models in the task of 3D CAD model reconstruction from three orthographic views.
-- [CSTR [CoRR 2022]](https://manycore-research.github.io/cstr/): a novel scheme for 3D reconstruction from single line drawings which integrates deep learning and nonlinear optimization for geometric constraint solving.
 - [Faceformer [CVPR 2022]](https://manycore-research.github.io/faceformer/): the first data-driven approach to identify face loops from a single line drawing.
 - [NonCuboidRoom [WACV 2022]](https://github.com/CYang0515/NonCuboidRoom): a single-view 3D non-cuboid room layout reconstruction approach.
 - [Structured3D [ECCV 2020]](http://structured3d-dataset.org): a large-scale photo-realistic dataset for data-driven structured 3D reconstruction.
-- [PlaneAE [CVPR 2019]](https://github.com/svip-lab/PlanarReconstruction): a single-view piece-wise planar reconstruction approach.
+- [PlaneAE [CVPR 2019]](https://github.com/svip-lab/PlanarReconstruction): a single-view piece-wise 3D planar reconstruction approach.
 
 **Resources**
 
