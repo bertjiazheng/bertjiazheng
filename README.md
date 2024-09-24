@@ -1,6 +1,10 @@
 ### Hi there! 👋
 
-I'm Jia Zheng, currently an engineer and researcher at [Manycore Research Institute](https://github.com/manycore-research/), Manycore Tech Inc. 
+I'm Jia Zheng, an engineer and researcher at [Manycore Research Institute](https://github.com/manycore-research/), Manycore Tech Inc. 
+
+**Projects**
+
+- [KoolCogVideoX](https://huggingface.co/collections/bertjiazheng/koolcogvideox-66e4762f53287b7f39f8f3ba): a text-to-video generative model for interior designs.
 
 **Selected Publications**
 
