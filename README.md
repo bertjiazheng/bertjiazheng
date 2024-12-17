@@ -8,6 +8,7 @@ I'm Jia Zheng, an engineer and researcher at [Manycore Research Institute](https
 
 **Selected Publications**
 
+- [CAD2Program [AAAI 2025]](https://manycore-research.github.io/CAD2Program/): a vision-language model to 3D parametric model reconstruction from 2D CAD drawings.
 - [PlankAssembly [ICCV 2023]](https://manycore-research.github.io/PlankAssembly/): the first deep generative models in the task of 3D CAD model reconstruction from three orthographic views.
 - [Faceformer [CVPR 2022]](https://manycore-research.github.io/faceformer/): the first data-driven approach to identify face loops from a single line drawing.
 - [NonCuboidRoom [WACV 2022]](https://github.com/CYang0515/NonCuboidRoom): a single-view 3D non-cuboid room layout reconstruction approach.
