@@ -24,13 +24,7 @@ I'm Jia Zheng, an engineer and researcher at [Manycore Research Institute](https
 ### Found me on
 
 [<img align="left" alt="bertjiazheng | website " width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="bertjiazheng | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="bertjiazheng | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/twitter.svg" />][twitter]
-[<img align="left" alt="bertjiazheng | zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/zhihu.svg" />][zhihu]
-[<img align="left" alt="bertjiazheng | weibo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/sinaweibo.svg" />][weibo]
+[<img align="left" alt="bertjiazheng | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@14.11.0/icons/x.svg" />][x]
 
 [website]: https://bertjiazheng.github.io
-[linkedin]: https://linkedin.com/in/bertjiazheng
-[twitter]: https://twitter.com/bertjiazheng
-[zhihu]: https://www.zhihu.com/people/jia.stu
-[weibo]: https://weibo.com/bertjiazheng
+[x]: https://x.com/bertjiazheng
