@@ -4,6 +4,7 @@ I'm Jia Zheng, an engineer and researcher at [Manycore Research](https://github.
 
 **Projects**
 
+- [SpatialLM](https://manycore-research.github.io/SpatialLM): a large language model for spatial understanding.
 - [KoolCogVideoX](https://huggingface.co/collections/bertjiazheng/koolcogvideox-66e4762f53287b7f39f8f3ba): a text-to-video generative model for interior designs.
 
 **Selected Publications**
