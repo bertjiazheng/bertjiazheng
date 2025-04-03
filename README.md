@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Jia Zheng, an engineer and researcher at [Manycore Research Institute](https://github.com/manycore-research/), Manycore Tech Inc. 
+I'm Jia Zheng, an engineer and researcher at [Manycore Research](https://github.com/manycore-research/), Manycore Tech Inc. 
 
 **Projects**
 
