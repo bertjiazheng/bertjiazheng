@@ -6,7 +6,7 @@ I am advancing Spatial Intelligence at [Manycore Research](https://github.com/ma
 
 ### 🔍 Research Highlights
 
-- [SpatialLM (preprint)](https://manycore-research.github.io/SpatialLM): A large Language Model for structured indoor scene modeling.
+- [SpatialLM (arXiv 2025)](https://manycore-research.github.io/SpatialLM): A large Language Model for structured indoor scene modeling.
 - [CAD2Program (AAAI 2025)](https://manycore-research.github.io/CAD2Program/): A vision-language model for reconstructing 3D parametric CAD models from 2D drawings.
 - [PlankAssembly (ICCV 2023)](https://manycore-research.github.io/PlankAssembly/): The first deep generative model for 3D CAD reconstruction based on three orthographic views.
 - [Faceformer (CVPR 2022)](https://manycore-research.github.io/faceformer/): A data-driven approach to identify face loops from single line drawings.
