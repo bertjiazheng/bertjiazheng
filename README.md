@@ -7,7 +7,7 @@ I’m passionate about advancing Spatial Intelligence.
 #### Spatial Intelligence
 
 - [SpatialGen (2025)](https://github.com/manycore-research/SpatialGen): Multi-view multi-modal diffusion model for 3D indoor scene generation.
-- [SpatialLM (arXiv 2025)](https://manycore-research.github.io/SpatialLM): Large Language Model for structured indoor scene modeling.
+- [SpatialLM (NeurIPS 2025)](https://manycore-research.github.io/SpatialLM): Large Language Model for structured indoor scene modeling.
 - [NonCuboidRoom (WACV 2022)](https://github.com/CYang0515/NonCuboidRoom): Single-view 3D room layout reconstruction beyond cuboid assumptions.
 - [Structured3D (ECCV 2020)](http://structured3d-dataset.org): Large-scale, photo-realistic dataset for structured 3D scene reconstruction.
 - [PlaneAE (CVPR 2019)](https://github.com/svip-lab/PlanarReconstruction): Piece-wise planar 3D reconstruction from a single RGB image.
