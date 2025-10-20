@@ -17,10 +17,11 @@ I’m passionate about advancing Spatial Intelligence.
 - [PlankAssembly (ICCV 2023)](https://manycore-research.github.io/PlankAssembly/): First deep generative model for 3D CAD reconstruction based on three orthographic views.
 - [Faceformer (CVPR 2022)](https://manycore-research.github.io/faceformer/): Data-driven approach to identify face loops from single line drawing.
 
-
 ### 🛠 Projects
 
-- [KoolCogVideoX](https://huggingface.co/collections/bertjiazheng/koolcogvideox-66e4762f53287b7f39f8f3ba): Fine-tuned CogVideoX text-to-video model for interior design concept generation.
+- [FLUX.1-Panorama-LoRA](https://huggingface.co/collections/manycore-research/flux1-panorama-lora-68f0d8cfcd7c04f6ba0226e1): FLUX.1 LoRA for generating high-quality panoramic images focusing on realistic interior design scenes.
+- [FLUX.1-Wireframe-dev-LoRA](https://huggingface.co/manycore-research/FLUX.1-Wireframe-dev-lora): FLUX.1 LoRA for generating images based on a text description and a wireframe input.
+- [KoolCogVideoX](https://huggingface.co/collections/bertjiazheng/koolcogvideox-66e4762f53287b7f39f8f3ba): Fine-tuned CogVideoX-based text-to-video model for enhanced performance in generating realistic interior design videos.
 
 ### 📚 Resources
 
